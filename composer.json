@@ -1,0 +1,7 @@
+{
+    "name": "salvatore/twitterusers",
+    "description": "Build a Website using Twitter API",
+    "require": {
+        "j7mbo/twitter-api-php": "dev-master"
+    }
+}
